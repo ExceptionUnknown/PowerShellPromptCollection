@@ -5,6 +5,8 @@ This repository contains a collection of customized Prompt functions for Microso
 
 ## Installation + Dependencies
 
+To install, simply add the contents of the file to your Profile.
+
 These Prompts leverage ANSI Escape sequences for colorization, so your mileage may vary on appearance. If it looks bad, and you use Windows Terminal, I suggest making changes to your Color Scheme.
 
 You **WILL** need to have installed [Nerd Fonts by ryanoasis](https://github.com/ryanoasis/nerd-fonts) in order for many of these functions (*the ones with 'NF' in the filename*) to display correctly. Otherwise you will end up with a big fat ***?*** instead. **Set your terminal's font to 'Hack Nerd Font' and they will display correctly. Other Nerd Fonts may include all the symbols but they may not.**
